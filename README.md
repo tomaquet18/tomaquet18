@@ -1,12 +1,40 @@
-<h1 align="center">Bon dia i bona hora 👋</h1>
+# 👋 Hello, I'm tomaquet18
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaquet18&label=Profile%20views&color=0e75b6&style=flat" alt="tomaquet18" /> </p>
-<h3>Mail: <a href="mailto:tomaquet18@protonmail.com">tomaquet18@protonmail.com</a></h3>
+Welcome to my GitHub repository! Here you will find a showcase of my work and projects related to Python programming.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomaquet18" alt="tomaquet18" /></a> </p>
+## 📫 Contact
+- Email: tomaquet18@protonmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaquet18&show_icons=true&locale=en&layout=compact" alt="tomaquet18" /></p>
+## 💻 Languages and Tools
+- Python  
+- Django
+- Vue.js
+- And more
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomaquet18&show_icons=true&locale=en" alt="tomaquet18" /></p>
+## 📚 Featured Projects
+### Blog Application
+- Description: A blog application developed using Django, GraphQL, and Vue.js.
+- GitHub Repository: https://github.com/tomaquet18/dgv_blog
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaquet18&" alt="tomaquet18" /></p>
+### Mathematical Functions Library
+- Description: A collection of mathematical functions implemented in Python.
+- GitHub Repository: https://github.com/tomaquet18/math-operations
+
+
+## 🌱 Interests
+I'm passionate about programming, with a keen interest in the following areas:
+
+- Back-end development
+- Artificial Intelligence
+- Machine Learning
+- Web development
+- Data science
+- Software engineering
+
+I enjoy exploring and learning new technologies and frameworks related to these areas. If you have any exciting projects or opportunities in these domains, feel free to reach out!
+
+## 🤝 Collaboration
+If you're interested in collaborating on projects or have any job proposals, feel free to get in touch! I'm open to exciting and challenging opportunities.
+
+Thank you for visiting my repository! Feel free to explore my projects and reach out if you have any questions or proposals.
+  
