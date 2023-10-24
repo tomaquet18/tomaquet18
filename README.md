@@ -24,6 +24,7 @@ Welcome to my GitHub repository! Here you will find a showcase of my work and pr
 ## 🌱 Interests
 I'm passionate about programming, with a keen interest in the following areas:
 
+- Cybersecurity
 - Back-end development
 - Artificial Intelligence
 - Machine Learning
