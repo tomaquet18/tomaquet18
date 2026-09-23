@@ -1,31 +1,28 @@
-# 👋 Hi, I'm Àlex Fernández (@tomaquet18)
+# Àlex Fernández
 
-I'm someone who’s always enjoyed understanding how things work — and more importantly, how they break.
+**Pentester in Barcelona. I break things professionally, then build the tools I wish I'd had.**
 
-Over time, that curiosity naturally led me into the world of **cybersecurity**, especially the offensive side. I spend most of my time digging into systems, automating everything I can, and building tools that help me go deeper and faster.
+Most of my work is offensive security — chaining vulnerabilities, writing recon pipelines, and turning noisy scan output into something actionable. The rest of the time I build infrastructure, usually because I got tired of a tool not existing.
 
-What I love the most? Finding creative ways to chain vulnerabilities, scripting my own recon pipelines, and turning chaotic data into something actionable. I enjoy the process just as much as the result.
+Vulnerabilities disclosed to **Netflix · Apple · Google · Microsoft · Epic Games**.
 
-I work on private projects focused on **automated reconnaissance**, and I constantly experiment with ways to improve efficiency in **bug bounty workflows**. If something feels repetitive, I probably already wrote a script for it.
+## Building
 
-Aside from that, I enjoy building clean and purposeful UIs to visualize security data, even if it’s just for my own use.
+**[nabla](https://github.com/tomaquet18/nabla)** · Rust, pgrx  
+Non-blocking incremental materialized views for PostgreSQL 17, maintained from the write-ahead log with real-time delta subscriptions. Writers never serialize behind view refresh.
 
-## 🧠 What drives me
+**[CVETotal](https://cvetotal.io/)** · live  
+Every CVE in the NVD, indexed by the products you actually run — and for the critical ones, the vulnerable lines and the patch that fixes them.
 
-- Learning by breaking things
-- Automating boring stuff
-- Designing tools that simplify complex tasks
-- Constantly refining my own workflow
+**[42-vscode-autoinstaller](https://github.com/tomaquet18/42-vscode-autoinstaller)** · Shell  
+Installs VS Code into a 42 student's home directory: PATH, desktop launcher, Bash and Zsh.
 
-## 📈 GitHub Activity
+## Writing
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomaquet18&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaquet18&layout=compact&theme=radical)
+[**nabla: Postgres views maintained from the WAL, so writers never wait**](https://tomaquet18.dev/writing/nabla/) — Sep 2026
 
-## 📫 Reach me
+More at [tomaquet18.dev](https://tomaquet18.dev) · [RSS](https://tomaquet18.dev/rss.xml)
 
-- Email: tomaquet18@protonmail.com
-- LinkedIn: [linkedin.com/in/àlex-fernández](https://www.linkedin.com/in/àlex-fernández)
+## Elsewhere
 
-Thanks for stopping by — feel free to check out some of my public projects or get in touch if you’re into the same kind of things.
+[tomaquet18.dev](https://tomaquet18.dev) · [@tomaquet18](https://x.com/tomaquet18) · [LinkedIn](https://www.linkedin.com/in/àlex-fernández) · tomaquet18@protonmail.com
